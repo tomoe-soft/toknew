@@ -1,0 +1,36 @@
+2017/03/27 12:36:48	0	0	  	開始		
+2017/03/27 12:36:48	0	0	ERR			xDxtIni--openDxtIni(入力したパスワードが間違っています。CapsLock キーの状態に注意して、大文字と小文字が正しく使われていることを確認してください。)<>
+2017/03/27 12:37:19	0	0	  	開始		
+2017/03/27 12:37:19	0	0	ERR			xDxtIni--openDxtIni(入力したパスワードが間違っています。CapsLock キーの状態に注意して、大文字と小文字が正しく使われていることを確認してください。)<>
+2017/03/27 13:44:53	0	0	  	開始		
+2017/03/27 13:44:54	0	0	  			TARGETGA--UserForm_Initialize(全履歴抽出してください)<1>
+2017/03/27 13:57:32	0	0	  	開始		
+2017/03/27 13:58:48	0	0	  	開始		
+2017/03/27 13:59:09	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=22348 and h.exno<>'' and h.doex<'200304  99' order by doex desc>
+2017/03/27 13:59:11	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=27644 and h.exno<>'' and h.doex<'200403  99' order by doex desc>
+2017/03/27 13:59:15	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=34366 and h.exno<>'' and h.doex<'200503  99' order by doex desc>
+2017/03/27 13:59:15	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=34965 and h.exno<>'' and h.doex<'200509  99' order by doex desc>
+2017/03/27 13:59:17	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=43160 and h.exno<>'' and h.doex<'200603  99' order by doex desc>
+2017/03/27 14:10:47	0	0	  	開始		
+2017/03/27 14:11:35	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=22348 and h.exno<>'' and h.doex<'200304  99' order by doex desc>
+2017/03/27 14:11:37	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=27644 and h.exno<>'' and h.doex<'200403  99' order by doex desc>
+2017/03/27 14:11:41	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=34366 and h.exno<>'' and h.doex<'200503  99' order by doex desc>
+2017/03/27 14:11:41	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=34965 and h.exno<>'' and h.doex<'200509  99' order by doex desc>
+2017/03/27 14:11:43	0	0	  			xTagetGRun--TragetGEdit_Target()<select h.doex,h.tno,h.sex,i.nm,i.knm from hsph h inner join idet i on h.idno=i.idno  where h.idno=43160 and h.exno<>'' and h.doex<'200603  99' order by doex desc>
+2017/03/27 14:16:41	0	0	  	開始		
+2017/03/27 15:02:38	0	0	  	開始		
+2017/03/27 15:07:40	0	0	  	開始		
+2017/03/27 16:47:10	0	0	  	開始		
+2017/03/27 16:58:04	0	0	  	開始		
+2017/03/27 18:24:48	0	0	  	開始		
+2017/03/27 18:24:49	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 18:24:49	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 18:24:49	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 18:24:49	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 18:24:49	0	0	  			TARGETGA--UserForm_Initialize(Dxtで事業所抽出してください)
+2017/03/27 19:49:40	0	0	  	開始		
+2017/03/27 19:49:41	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 19:49:41	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 19:49:41	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 19:49:41	0	0	  			TARGETGA--setyyyymm(Localini not found)<//01>
+2017/03/27 19:49:41	0	0	  			TARGETGA--UserForm_Initialize(Dxtで事業所抽出してください)

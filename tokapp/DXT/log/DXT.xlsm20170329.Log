@@ -1,0 +1,55 @@
+2017/03/29 11:29:29	0	0	  	開始		
+2017/03/29 11:29:38	0	0	  	User	tsw       	
+2017/03/29 11:30:11	0	0	ERR			xDxtRun--DxtTBLDataGet(オブジェクト名 'localidet' が無効です。)<localidet>
+2017/03/29 11:32:00	0	0	ERR			xDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:38:33	0	0	  	開始		
+2017/03/29 11:38:38	0	0	  	User	tsw       	
+2017/03/29 11:38:48	0	0	ERR			xDxtRun--DxtTBLDataGet(オブジェクト名 'localidet' が無効です。)<localidet>
+2017/03/29 11:38:48	0	0	ERR			xDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:38:48	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 11:39:04	0	0	  	終了		
+2017/03/29 11:48:01	0	0	  	開始		
+2017/03/29 11:48:08	0	0	  	User	tsw       	
+2017/03/29 11:48:17	0	0	ERR			xxDxtRun--DxtTBLDataGet(オブジェクト名 'localidet' が無効です。)<localidet>
+2017/03/29 11:48:17	0	0	ERR			xxDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:48:17	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 11:48:45	0	0	  	終了		
+2017/03/29 11:49:40	0	0	  	開始		
+2017/03/29 11:49:45	0	0	  	User	tsw       	
+2017/03/29 11:49:53	0	0	ERR			xxDxtRun--DxtTBLDataGet(オブジェクト名 'localidet' が無効です。)<localidet>
+2017/03/29 11:49:53	0	0	ERR			xxDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:49:54	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 11:50:24	0	0	ERR			xxDxtRun--DxtTBLDataGet(オブジェクト名 'localidet' が無効です。)<localidet>
+2017/03/29 11:50:24	0	0	ERR			xxDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:50:24	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 11:51:25	0	0	  	開始		
+2017/03/29 11:51:31	0	0	  	User	tsw       	
+2017/03/29 11:54:14	0	0	ERR			xxDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 11:54:14	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 11:58:10	0	0	  	開始		
+2017/03/29 11:58:16	0	0	  	User	tsw       	
+2017/03/29 12:00:35	0	0	ERR			xxDxtRun--setSelectINfoOzcdList(入力テーブルまたはクエリ 'hsph' が見つかりませんでした。そのテーブルやクエリが存在していること、または名前が正しいことを確認してください。)<>
+2017/03/29 12:00:35	0	0	ERR	Data eXtracTion	Data eXtracTion	エラー発生
+2017/03/29 12:02:21	0	0	  	開始		
+2017/03/29 12:02:26	0	0	  	User	tsw       	
+2017/03/29 12:09:59	0	0	  	終了		
+2017/03/29 12:10:25	0	0	  	開始		
+2017/03/29 12:10:38	0	0	  	User	tsw       	
+2017/03/29 12:13:00	0	0	  	終了		
+2017/03/29 14:17:34	0	0	  	開始		
+2017/03/29 14:17:40	0	0	  	User	tsw       	
+2017/03/29 14:20:53	0	0	  	終了		
+2017/03/29 14:25:21	0	0	  	開始		
+2017/03/29 14:25:48	0	0	ERR		Data eXtracTion	データベースに接続できません
+2017/03/29 14:25:48	0	0	ERR	Data eXtracTion	Data eXtracTion	システムの初期化に失敗しました。
+2017/03/29 14:25:48	0	0	  	終了		
+2017/03/29 18:21:39	0	0	  	開始		
+2017/03/29 18:22:06	0	0	ERR		Data eXtracTion	データベースに接続できません
+2017/03/29 18:22:06	0	0	ERR	Data eXtracTion	Data eXtracTion	システムの初期化に失敗しました。
+2017/03/29 18:22:06	0	0	  	終了		
+2017/03/29 18:22:26	0	0	  	開始		
+2017/03/29 18:22:50	0	0	ERR		Data eXtracTion	データベースに接続できません
+2017/03/29 18:22:50	0	0	ERR	Data eXtracTion	Data eXtracTion	システムの初期化に失敗しました。
+2017/03/29 18:22:50	0	0	  	終了		
+2017/03/29 19:16:28	0	0	  	開始		
+2017/03/29 19:16:40	0	0	  	終了		
